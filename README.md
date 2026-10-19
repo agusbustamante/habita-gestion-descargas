@@ -16,3 +16,4 @@ Si tenés una versión anterior a 1.7.2, instalá una vez 1.7.2 o posterior para
 - Este repositorio contiene únicamente instaladores, blockmaps y manifiestos firmados. El proyecto se conserva en un repositorio privado.
 - Habita comprueba la firma propia de las actualizaciones antes de instalarlas. Windows puede mostrar «Editor desconocido» porque no se utiliza un certificado comercial.
 - La aplicación incluye una demostración con datos ficticios, un recorrido paso a paso y un manual interactivo.
+- Cada nueva versión explica sus novedades al abrirla, tanto después de actualizar como en una instalación nueva. Podés repetir el recorrido desde Novedades y cerrar antes de terminar con la X. Tus registros permanecen separados de los ejemplos.
